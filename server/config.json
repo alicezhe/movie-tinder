@@ -1,0 +1,9 @@
+{
+    "rds_host": "final-project-550.ccmeq7gp9awi.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "admin",
+    "rds_password" : "",
+    "rds_db": "MOVIE_MATCHING",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+}
